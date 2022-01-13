@@ -1,0 +1,1 @@
+drop table "HR"."SHIPS"; /* This is an example of how to drop a table from a database */

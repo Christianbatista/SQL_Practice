@@ -1,0 +1,3 @@
+CREATE USER C##CCL Identified BY ccl;
+
+GRANT CREATE SESSION TO C##CCL;

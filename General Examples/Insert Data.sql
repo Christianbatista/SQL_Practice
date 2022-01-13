@@ -1,0 +1,1 @@
+INSERT INTO PORTS (ENTER HERE THE NAME OF THE COLUMNS seperated by comma's) VALUES ('',);

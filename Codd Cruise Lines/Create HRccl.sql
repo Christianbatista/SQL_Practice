@@ -1,0 +1,1 @@
+CREATE USER hrccl Identified BY hrccl;
